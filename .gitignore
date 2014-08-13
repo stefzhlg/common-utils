@@ -34,3 +34,7 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+.project
+.settings/org.eclipse.jdt.core.prefs
+.classpath
